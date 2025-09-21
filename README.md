@@ -5,9 +5,9 @@ This project analyzes the **CORD-19 research dataset** and builds a simple **Str
 
 ## Objectives
 - Load and clean real-world dataset (metadata.csv).
-- Perform basic analysis with **pandas**.
-- Create visualizations using **matplotlib & seaborn**.
-- Build a **Streamlit app** for interactive exploration.
+- Perform basic analysis with *pandas*.
+- Create visualizations using *matplotlib & seaborn*.
+- Build a *Streamlit app* for interactive exploration.
 
 ## Tools Used
 - Python 3.7+
